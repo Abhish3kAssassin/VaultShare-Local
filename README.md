@@ -57,7 +57,6 @@ A secure file transfer web application built to demonstrate real-world cybersecu
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Abhish3kAssassin/VaultShare-Local.git
-cd vaultshare
 ```
 
 ### 2. Install dependencies
