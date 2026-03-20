@@ -159,13 +159,3 @@ vaultshare/
 
 ---
 
-## 📜 License
-
-MIT License (or choose your own)
-
----
-
-## 👨‍💻 Author
-
-Your Name  
-Cybersecurity Enthusiast
