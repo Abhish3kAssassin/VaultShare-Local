@@ -148,10 +148,6 @@ vaultshare/
 
 ---
 
-## 🏆 Resume Description
-
-> Developed a secure file transfer web application using Node.js and Express, implementing AES-256 encryption, SHA-256 integrity verification, and role-based access control for secure file sharing across local networks.
-
 ---
 
 ## 💡 Why This Project Stands Out
